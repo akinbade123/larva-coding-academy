@@ -1,0 +1,10 @@
+# Normalise line endings so the repo is the same on Windows, macOS and Linux
+* text=auto eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
